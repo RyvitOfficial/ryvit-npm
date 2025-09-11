@@ -1,0 +1,44 @@
+{
+  "name": "ryvit",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-f:RyvitOfficial/ryvit-npm.git"
+  },
+  "keywords": [
+    "Ryvit",
+    "stellar",
+    "soroban",
+    "event",
+    "ttl",
+    "function",
+    "manage",
+    "manager",
+    "decode",
+    "encode",
+    "express"
+  ],
+  "license": "MIT",
+  "author": "https://github.com/ryvitofficial",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2",
+    "@types/node": "^24.3.1",
+    "@types/express": "^5.0.3"
+  }
+}
