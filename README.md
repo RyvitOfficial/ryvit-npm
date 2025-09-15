@@ -1,4 +1,3 @@
-````markdown
 # Ryvit
 
 Ryvit is a TypeScript package for managing **event-based routes** in Express and creating **automatic Serveo tunnels**.  
@@ -12,7 +11,7 @@ It allows you to receive events via HTTP, verify signatures, and define custom h
 npm install ryvit
 # or
 yarn add ryvit
-````
+```
 
 ---
 
