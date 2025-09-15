@@ -1,7 +1,7 @@
 {
   "name": "ryvit",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "Ryvit Packages",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
